@@ -1,0 +1,23 @@
+services:
+  hytale:
+    image: ghcr.io/ginco-org/hytale-server:latest
+    container_name: hytale-server
+    restart: unless-stopped
+    stop_grace_period: 60s
+
+    ports:
+      - "5520:5520/udp"   # Hytale usa QUIC (UDP)
+
+    environment:
+      EULA: "true"
+      MEMORY: "6G"        # 85 mods: 4G se queda corto
+      AUTH_MODE: "authenticated"
+      ENABLE_BACKUP: "true"
+      BACKUP_FREQUENCY: "60"
+
+    volumes:
+      - ./data:/data      # mundo, configs y tokens de auth (persisten entre reinicios)
+      - ./mods:/mods:ro   # se copian a /data/mods en cada arranque
+
+    stdin_open: true
+    tty: true

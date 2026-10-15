@@ -1,0 +1,89 @@
+# Mods instalados
+
+Poner estos archivos en `mods/` (no se versionan).
+
+- 0.5.1_Aures_Livestock_27_05_2026.zip
+- 0.6.1_Aures_Rare_Monsters_28_08_2026.zip
+- 0.6.3_Aures_Horses_06_09_2026.zip
+- AdvancedItemInfo-1.0.7.jar
+- Aetherhaven-4.0.0.jar
+- AutoMultiHud-1.16.jar
+- BetterLoot_V1.7.6.zip
+- BetterMap-1.3.9.jar
+- BetterMobExpansion 3.5.zip
+- BetterMobExpansion Humans 1.2.zip
+- BetterWardrobes-1.0.4.zip
+- cali19's Traveling Mounts 1.1.2.zip
+- ConnectedWindows_0.14.zip
+- DoubleBeds-1.0.2.zip
+- DynamicTooltipsLib-1.6.2.jar
+- Emotale-1.3.1.jar
+- EndgameAndQoL6.0.1.jar
+- ExpandedNecromancy-0.12.zip
+- Extended Backpacks (v.4.3.0).jar
+- EyeSpy-2026.5.27-26724.jar
+- Farming_Overhaul-2.4.0.jar
+- Glider (1).zip
+- GrabFromFar-1.5.1.jar
+- HyMarkers-1.0.0.jar
+- Hyssentials-3.2.jar
+- HytaleHungerMod-0.1.20.jar
+- Hytalor-2.3.jar
+- hytame-1.6.0.jar
+- JLib-0.2.0.jar
+- LuckyMining-1.0.6.jar
+- Lunaronin777.Fullmetal_Labyrinth.1.10.14.zip
+- MajorDungeons-0.4.12.jar
+- McwHyCarpets_1.1.5.zip
+- McwHyDoors_1.1.3.zip
+- McwHyFurniture_1.0.5.zip
+- McwHyLights_1.0.6.zip
+- McwHyPaintings_1.0.3.zip
+- McwHyPaths_1.1.7.zip
+- McwHyStairs_1.0.4.zip
+- McwHyWindows_1.0.6.zip
+- MmoMobScaling-1.0.2.jar
+- MMOSkillBountyPack-1.1.2.zip
+- MMOSkillMasteryPack-1.1.1.zip
+- MMOSkillTree-1.5.2.jar
+- More_Crossbow_Tiers.zip
+- MoreNPC_2.0.6.zip
+- Mort's Wandering Merchant1.2.3.7hotfix.zip
+- MountableTrexAndRaptor1.1.0.zip
+- MultipleHUD-1.0.8.jar
+- NoCube_Bakehouse_0.1.0.zip
+- NoCube_Culinary_0.0.2.zip
+- NoCube_Cultivation_0.1.0.zip
+- NoCube_Orchard_0.0.2.zip
+- NoCube_Undead_Warriors_0.1.0.zip
+- Oasis' More to Exlpore.zip
+- Perfect Parries-0.9.7.jar
+- Perfect Utils-1.1.0.jar
+- PixelPaintings-2026.2.20-1375.zip
+- Reforged_Weapons_4.3.zip
+- resourcegroups-1.0.2.jar
+- ReviveMe.jar
+- SimpleEnchantments-1.1.1.jar
+- SkeletonBangingShield_0.2.1.zip
+- Soulslike_Bosses-1_3_2.zip
+- Spellbook-2026.2.20-126.jar
+- StardewStyleFishing-0.1.1.jar
+- Team_Metallurgy.Metallurgy A18.zip
+- TerrariaAddons-1.7.3.jar
+- TheArmoryMod-1.22.0.jar
+- UnifiedMagicTheory-1.3.0.jar
+- Violets_Furnishings.zip
+- Violets_Music_Players.zip
+- Violets_Plushies.zip
+- Violets_Wardrobe.zip
+- WansWonderWeapon-1.1.1.jar
+- WorkbenchTierKeeper-1.0.0.jar
+- x3Dev-Wayfinder-1.8.0.jar
+- ymmersive-carpentry-1.1.3.jar
+- ymmersive-foliage-1.0.3.jar
+- ymmersive-masonry-1.1.3.jar
+- ymmersive-melodies-1.1.4.jar
+- YUNGs-HyDungeons.zip
+- ZeldaGear-1.9.5.jar
+- Zephyr-0.3.12.jar
+- ZiggfreedCommon-1.3.0.jar
