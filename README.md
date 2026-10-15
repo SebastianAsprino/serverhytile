@@ -4,7 +4,8 @@ Servidor dedicado con mods usando [ginco-org/hytale-server](https://github.com/g
 
 ## Arrancar
 
-1. Copiar los mods listados en [MODS.md](MODS.md) a `mods/`.
+1. Copiar los mods listados en [MODS.md](MODS.md) a `../files/mods/` (en Dokploy:
+   `/etc/dokploy/compose/<appName>/files/mods/`; esa carpeta persiste entre deploys).
 2. Levantar el servidor y aprobar los 2 códigos de autorización que aparecen en los logs:
 
    ```bash
@@ -12,4 +13,4 @@ Servidor dedicado con mods usando [ginco-org/hytale-server](https://github.com/g
    docker compose logs -f
    ```
 
-Los tokens quedan en `data/` y se reutilizan en los siguientes arranques. Puerto: `5520/udp`.
+Los tokens quedan en el volumen `hytale-data` y se reutilizan en los siguientes arranques. Puerto: `5520/udp`.
