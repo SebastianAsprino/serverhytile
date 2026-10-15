@@ -4,3 +4,8 @@ data/
 # Versiones viejas y el zip original
 mods-viejos/
 Mods.zip
+mods-incompatibles/
+
+# Logs descargados del servidor
+*.log
+*.log.txt
