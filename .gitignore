@@ -1,8 +1,6 @@
 # Datos del servidor: mundo, logs y TOKENS DE AUTH (nunca subir)
 data/
 
-# Binarios de mods (pesados y de terceros); la lista está en MODS.md
-mods/*
-!mods/.gitkeep
+# Versiones viejas y el zip original
 mods-viejos/
 Mods.zip

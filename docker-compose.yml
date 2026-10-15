@@ -17,9 +17,8 @@ services:
     volumes:
       # Volumen con nombre: mundo, configs y tokens de auth. Sobrevive a los redeploys.
       - hytale-data:/data
-      # Dokploy re-clona el repo en cada deploy; ../files persiste entre deploys.
-      # Los mods se suben a mano ahí (no están en el repo).
-      - ../files/mods:/mods:ro
+      # Mods del repo: se copian a /data/mods en cada arranque.
+      - ./mods:/mods:ro
 
     stdin_open: true
     tty: true
